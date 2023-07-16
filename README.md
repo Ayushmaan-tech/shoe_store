@@ -3,9 +3,12 @@
 backend: run using npm run develop
 frontend: run using npm run dev
 
-![Screenshot (477)](https://github.com/Ayushmaan-tech/shoe_store/assets/61732409/a3e84d8d-60d1-473d-a58a-60536956ac95)
-![Screenshot (472)](https://github.com/Ayushmaan-tech/shoe_store/assets/61732409/3eeccc7c-a0ee-4d2e-875b-d0eb8e580f12)
-![Screenshot (473)](https://github.com/Ayushmaan-tech/shoe_store/assets/61732409/94a5d0da-c5fa-4463-a80e-ec596a1a6a07)
-![Screenshot (474)](https://github.com/Ayushmaan-tech/shoe_store/assets/61732409/2ece3617-6c96-
-![Screenshot (476)](https://github.com/Ayushmaan-tech/shoe_store/assets/61732409/dd14e0df-86b3-411d-920f-6d09a0f8d0eb)
-4d95-ab52-fa80aa054245)
+![Screenshot (472)](https://github.com/Ayushmaan-tech/shoe_store/assets/61732409/53a5c1c3-1bee-4e0c-809d-b8dd5ab988d6)
+
+![Screenshot (473)](https://github.com/Ayushmaan-tech/shoe_store/assets/61732409/592dba11-7e98-45ef-9e32-05aefdeb1475)
+
+![Screenshot (474)](https://github.com/Ayushmaan-tech/shoe_store/assets/61732409/fb0b9bcf-77fa-4273-b370-8e2a029a182b)
+
+![Screenshot (475)](https://github.com/Ayushmaan-tech/shoe_store/assets/61732409/a6f12367-66ef-436f-a040-2f926f483821)
+
+![Screenshot (476)](https://github.com/Ayushmaan-tech/shoe_store/assets/61732409/a4449184-e0d3-467d-9171-d263ca2904c1)
